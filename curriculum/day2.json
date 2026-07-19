@@ -1,0 +1,12 @@
+{
+  "3": {
+    "title": "Day 3: Family (မိသားစု)",
+    "lessons": [
+      { "chinese": "爸爸", "pinyin": "Bàba", "meaning_en": "Dad", "meaning_my": "ဖေဖေ", "video_file_id": "" },
+      { "chinese": "妈妈", "pinyin": "Māma", "meaning_en": "Mom", "meaning_my": "မေမေ", "video_file_id": "" },
+      { "chinese": "哥哥", "pinyin": "Gēge", "meaning_en": "Older brother", "meaning_my": "အကို", "video_file_id": "" },
+      { "chinese": "姐姐", "pinyin": "Jiějie", "meaning_en": "Older sister", "meaning_my": "အမ", "video_file_id": "" },
+      { "chinese": "我", "pinyin": "Wǒ", "meaning_en": "I / me", "meaning_my": "ငါ/ကျွန်တော်/ကျွန်မ", "video_file_id": "" }
+    ]
+  }
+}

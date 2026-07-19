@@ -1,0 +1,27 @@
+{
+  "1": {
+    "title": "Day 1: Greetings & Basics (နှုတ်ဆက်ခြင်းနှင့်အခြေခံ)",
+    "lessons": [
+      { "chinese": "你好", "pinyin": "Nǐ hǎo", "meaning_my": "မင်္ဂလာပါ", "example_sentence": "你好，我叫李明။", "video_file_id": "" },
+      { "chinese": "谢谢", "pinyin": "Xiè xiè", "meaning_my": "ကျေးဇူးတင်ပါတယ်", "example_sentence": "谢谢你的帮助။", "video_file_id": "" },
+      { "chinese": "再见", "pinyin": "Zài jiàn", "meaning_my": "သွားတော့မယ် / နှုတ်ဆက်ပါတယ်", "example_sentence": "明天见，再见။", "video_file_id": "" },
+      { "chinese": "我叫", "pinyin": "Wǒ jiào", "meaning_my": "ကျွန်တော်နာမည်က", "example_sentence": "你好，我叫小明။", "video_file_id": "" },
+      { "chinese": "请问", "pinyin": "Qǐng wèn", "meaning_my": "မေးခွင့်ပြုပါ", "example_sentence": "请问，你叫什么名字?", "video_file_id": "" },
+      { "chinese": "您", "pinyin": "Nín", "meaning_my": "ရှင် (အရိုအသေပေးစကား)", "example_sentence": "您好，老师။", "video_file_id": "" },
+      { "chinese": "是", "pinyin": "Shì", "meaning_my": "ဟုတ်တယ် / ဖြစ်တယ်", "example_sentence": "我是学生။", "video_file_id": "" },
+      { "chinese": "的", "pinyin": "De", "meaning_my": "၏ (ပိုင်ဆိုင်ကြောင်းပြ)", "example_sentence": "这是我的书။", "video_file_id": "" },
+      { "chinese": "好", "pinyin": "Hǎo", "meaning_my": "ကောင်းတယ်", "example_sentence": "很好၊ 谢谢။", "video_file_id": "" },
+      { "chinese": "吗", "pinyin": "Ma", "meaning_my": "လား (မေးခွန်းစကားလုံး)", "example_sentence": "你好吗? (နေကောင်းလား)", "video_file_id": "" },
+      { "chinese": "很", "pinyin": "Hěn", "meaning_my": "အလွန် / တော်တော်", "example_sentence": "我很好။", "video_file_id": "" },
+      { "chinese": "也", "pinyin": "Yě", "meaning_my": "လည်း", "example_sentence": "我也很好။", "video_file_id": "" },
+      { "chinese": "不", "pinyin": "Bù", "meaning_my": "မ ... (ငြင်းပယ်စကား)", "example_sentence": "我不是老师။", "video_file_id": "" },
+      { "chinese": "和", "pinyin": "Hé", "meaning_my": "နှင့် / နဲ့", "example_sentence": "我和你一起去။", "video_file_id": "" },
+      { "chinese": "在", "pinyin": "Zài", "meaning_my": "မှာ / ၌", "example_sentence": "我在学校။", "video_file_id": "" },
+      { "chinese": "人", "pinyin": "Rén", "meaning_my": "လူ / လူပုဂ္ဂိုလ်", "example_sentence": "他是好人။", "video_file_id": "" },
+      { "chinese": "大", "pinyin": "Dà", "meaning_my": "ကြီးတယ်", "example_sentence": "这个很大။", "video_file_id": "" },
+      { "chinese": "小", "pinyin": "Xiǎo", "meaning_my": "သေးတယ် / ငယ်တယ်", "example_sentence": "小猫很小။", "video_file_id": "" },
+      { "chinese": "多", "pinyin": "Duō", "meaning_my": "များတယ်", "example_sentence": "我们有很多朋友။", "video_file_id": "" },
+      { "chinese": "少", "pinyin": "Shǎo", "meaning_my": "နည်းတယ်", "example_sentence": "今天人很少။", "video_file_id": "" }
+    ]
+  }
+}

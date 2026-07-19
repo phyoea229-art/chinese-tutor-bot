@@ -1,0 +1,35 @@
+{
+  "version": 2,
+  "builds": [
+    {
+      "src": "api/register-bot.js",
+      "use": "@vercel/node"
+    },
+    {
+      "src": "api/tutor-bot.js",
+      "use": "@vercel/node"
+    }
+  ],
+  "routes": [
+    {
+      "src": "/api/register-bot",
+      "dest": "/api/register-bot.js"
+    },
+    {
+      "src": "/api/tutor-bot",
+      "dest": "/api/tutor-bot.js"
+    }
+  ],
+  "env": {
+    "BOT1_REGISTER_TOKEN": "@bot1-register-token",
+    "BOT2_TUTOR_TOKEN": "@bot2-tutor-token",
+    "SUPABASE_URL": "@supabase-url",
+    "SUPABASE_ANON_KEY": "@supabase-anon-key",
+    "OPENROUTER_API_KEY": "@openrouter-api-key",
+    "AI_MODEL": "google/gemini-2.5-flash",
+    "OWNER_TELEGRAM_ID": "5349618042",
+    "ADMIN_TELEGRAM_ID": "-5625864204",
+    "TUTOR_BOT_LINK": "https://t.me/sulearninghubchinesetutor_bot",
+    "SESSION_DURATION_MINUTES": "60"
+  }
+}
