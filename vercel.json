@@ -9,9 +9,17 @@
     {
       "src": "api/tutor-bot.js",
       "use": "@vercel/node"
+    },
+    {
+      "src": "index.html",
+      "use": "@vercel/static"
     }
   ],
   "routes": [
+    {
+      "src": "/",
+      "dest": "/index.html"
+    },
     {
       "src": "/api/register-bot",
       "dest": "/api/register-bot.js"
